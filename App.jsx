@@ -181,7 +181,7 @@ useEffect(() => {
     <div className="mainContainer">
       <div className="dataContainer">
         <div className="header">
-          WagWan Drilla 👋 
+          Hello Lovely People 👋 
         </div>
         <div className="bio">
           Hello and welcome to a web3 App built on the Test Net Rinkeby blockchain. Im Ben, connect your wallet to view wave count and send me a message!
